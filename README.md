@@ -3,9 +3,13 @@
 # Links:
 
 - [Deployed Client]()
-- [Client Repo]()
+- [Client Repo](https://github.com/bilaltahiraziz/Debugger-Client)
 - [Deployed API]()
 
+# Installation
+1. Fork and Clone the Repository
+2. Checkout to a  new branch
+3. Run ```NPM Install``` to install the needed dependencies
 
 # Technologies
 
