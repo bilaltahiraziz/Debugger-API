@@ -93,10 +93,10 @@
 1. Under your Issue click Delete
 
 ## Wireframe:
-[Wifeframe](https://imgur.com/a/Tks7ivP)
+[Wifeframe](./assests/Wireframe.jpg)
 
 ## ERD:
-[ERD](https://imgur.com/a/Usaq4oh)
+[ERD](./assests/ERD.png)
 
 
 ## Stretch Goals:
